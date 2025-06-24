@@ -1,2 +1,2 @@
 # House_project
-# member: Ken, Jeremy, Candy
+# member: Ken, Jeremy, Candy...
